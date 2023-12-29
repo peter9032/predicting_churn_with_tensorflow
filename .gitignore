@@ -2,4 +2,4 @@
 
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
-*/saved_tf_model
+saved_tf_model/
